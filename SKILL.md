@@ -3,8 +3,9 @@ name: human-rights-localization
 description: Connect universal principles to local, actionable contexts. Based on Eleanor Roosevelt's insight that human rights begin "in small places, close to home—so close and so small that they cannot be se...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4186
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - human-rights-localization
 - writing
